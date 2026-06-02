@@ -15,7 +15,7 @@ Em seguida, é utilizado um laço de repetição para percorrer todos os itens d
 
 Esse projeto contribui para o aprendizado sobre estruturas de dados, manipulação de coleções e lógica de programação, servindo como uma introdução prática ao gerenciamento de informações em Python.
 ______________________________________________________________________________________________________________________________________________________________________
-![imagem](
+![imagem](https://github.com/victordev510/Listas/blob/main/lista.png)
 ______________________________________________________________________________________________________________________________________________________________________
 
 ✅ Conclusão
